@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Anguler.Js**
 
-- 👯 I’m looking to collaborate on **Gaza Sky Geeks**
-
 - 📫 How to reach me **m.sallot18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
