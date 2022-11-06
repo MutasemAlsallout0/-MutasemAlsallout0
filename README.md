@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **asp.net core**
 
-- 🌱 I’m currently learning **Anguler.Js**
+- 🌱 I’m currently learning **Anguler**
 
 - 📫 How to reach me **m.sallot18@gmail.com**
 
