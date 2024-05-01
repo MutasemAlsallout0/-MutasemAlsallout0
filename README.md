@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Anguler**
 
-- 📫 How to reach me **m.sallot18@gmail.com**
+- 📫 How to reach me **mutasemalsallout@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
