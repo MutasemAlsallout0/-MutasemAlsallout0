@@ -2,9 +2,9 @@
 <h3 align="center">Asp.net core Developer</h3>
 
 - 🔭 I’m currently working on **Asp.net core**
-- 
+  
 - 🌱 I’m currently learning **Anguler**
-- 
+  
 - 📫 How to reach me **mutasemalsallout@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
